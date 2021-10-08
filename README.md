@@ -1,2 +1,1 @@
-# HW1_Python_Homework
-python-homework
+# python-homework
